@@ -208,11 +208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+      "projectUniqueName": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
       "projectName": "SistemaCompra.Domain.Core",
-      "projectPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+      "projectPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\juare\\.nuget\\packages\\",
-      "outputPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\obj\\",
+      "outputPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juare\\AppData\\Roaming\\NuGet\\NuGet.Config",

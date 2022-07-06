@@ -26,7 +26,7 @@ namespace SistemaCompra.Domain.SolicitacaoCompraAggregate
             NomeFornecedor = new NomeFornecedor(nomeFornecedor);
             Data = DateTime.Now;
             Situacao = Situacao.Solicitado;
-            CondicaoPagamento = null;
+            CondicaoPagamento = condicaoPagamento;
             Itens  = new List<Item>(itens);
             TotalGeral = new Money(itens.Sum(x => x.Subtotal.Value));
             CondicaoPagamento = TotalGeral.Value > 50000 ? new CondicaoPagamento(30) : condicaoPagamento;

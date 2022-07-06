@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtoYGJunNdZhwQYUpksPDoi5OJxYUiJK7LmYy1mqrod1x/R3lcixulbxS6h88skYPUzv2x+xBpA0XgSuWt6zXg==",
+  "dgSpecHash": "uaBpqB5t8MEYv1tMs8Pqf0t0xrJyltL8wUXwRUuKXFgYXepD4QKrYA4coeLdgfxAbP8Ya+68smILPuvtnExZ7Q==",
   "success": true,
-  "projectFilePath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Test\\SistemaCompra.Domain.Test.csproj",
+  "projectFilePath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Test\\SistemaCompra.Domain.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juare\\.nuget\\packages\\coverlet.collector\\1.0.1\\coverlet.collector.1.0.1.nupkg.sha512",
     "C:\\Users\\juare\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",

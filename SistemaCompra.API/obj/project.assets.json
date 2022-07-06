@@ -8915,11 +8915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+      "projectUniqueName": "C:\\Testes\\sistemaCompra\\SistemaCompra.API\\SistemaCompra.API.csproj",
       "projectName": "SistemaCompra.API",
-      "projectPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+      "projectPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.API\\SistemaCompra.API.csproj",
       "packagesPath": "C:\\Users\\juare\\.nuget\\packages\\",
-      "outputPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.API\\obj\\",
+      "outputPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juare\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8936,11 +8936,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
-              "projectPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
+            "C:\\Testes\\sistemaCompra\\SistemaCompra.Application\\SistemaCompra.Application.csproj": {
+              "projectPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Application\\SistemaCompra.Application.csproj"
             },
-            "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
-              "projectPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
+            "C:\\Testes\\sistemaCompra\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj": {
+              "projectPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Infra.Data\\SistemaCompra.Infra.Data.csproj"
             }
           }
         }

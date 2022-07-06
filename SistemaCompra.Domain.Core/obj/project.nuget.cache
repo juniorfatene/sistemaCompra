@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OFOEOTsXR9X2bDrdhSp09tNnqCn09QNdasaOPLI92G0BbPeZaTlcHw7cNIwMIs0SUz/IP2mhP4G8mhVw4bV4HA==",
+  "dgSpecHash": "neFIzCpdvt5qcwpf4Iy24ALFGJPJyYgmzYW/NdKft8WA4RzsBG/Ti1HVwpWl8jhpMD7TV0GWMSy0BKvwOdmJgg==",
   "success": true,
-  "projectFilePath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
+  "projectFilePath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Core\\SistemaCompra.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juare\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
     "C:\\Users\\juare\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

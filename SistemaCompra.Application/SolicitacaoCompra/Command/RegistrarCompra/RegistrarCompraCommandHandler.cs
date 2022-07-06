@@ -20,7 +20,7 @@ namespace SistemaCompra.Application.SolicitacaoCompra.Command.RegistrarCompra
 
         public Task<bool> Handle(RegistrarCompraCommand request, CancellationToken cancellationToken)
         {
-            var solicitacaoCompra = new SolicitacaoCompraAgg.SolicitacaoCompra(request.UsuarioSolicitante.Nome, request.NomeFornecedor.Nome);
+            var solicitacaoCompra = new SolicitacaoCompraAgg.SolicitacaoCompra(request.UsuarioSolicitante.Nome, request.NomeFornecedor.Nome,request.Itens);
             solicitacaoCompraRepository.RegistrarCompra(solicitacaoCompra);
 
             Commit();

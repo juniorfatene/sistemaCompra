@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bj+U4cLCZ1P+Pdmt0QvGxVtx5w4bZvqw//QJfOXe+U+b0RIW8ppNiWTMbFS5dZXlqaM/GLYz43MFyg0m3Giu2Q==",
+  "dgSpecHash": "EBdREetGtIRKa2mUWnvxlH3f7L4hIPo7UP1HPWFyH7o+4Hv38plXmLOzmt6H/DxsD/a9mxdAQSF6zSuM5kkPtw==",
   "success": true,
-  "projectFilePath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
+  "projectFilePath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Application\\SistemaCompra.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juare\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\juare\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",

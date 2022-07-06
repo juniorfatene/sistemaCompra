@@ -6577,11 +6577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Test\\SistemaCompra.Domain.Test.csproj",
+      "projectUniqueName": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Test\\SistemaCompra.Domain.Test.csproj",
       "projectName": "SistemaCompra.Domain.Test",
-      "projectPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Test\\SistemaCompra.Domain.Test.csproj",
+      "projectPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Test\\SistemaCompra.Domain.Test.csproj",
       "packagesPath": "C:\\Users\\juare\\.nuget\\packages\\",
-      "outputPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain.Test\\obj\\",
+      "outputPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juare\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6598,8 +6598,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
-              "projectPath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
+            "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj": {
+              "projectPath": "C:\\Testes\\sistemaCompra\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj"
             }
           }
         }

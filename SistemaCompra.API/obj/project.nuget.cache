@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hlyvuPufgHtI50918vn7d78ID09IMQUMRPDIMp8rJmcZpp3r1EOCcAJmXDjtvQbL8QV8CsxxDPu/kzm9vZRqWA==",
+  "dgSpecHash": "0jAa6F57T/s1DAI2Fw84v2tWlP19XqyMK+S6jGMoijL23mY7QMCiNo4dr58Pj72nWINwiJLTRbdO+74PnUNKUA==",
   "success": true,
-  "projectFilePath": "C:\\Testes\\Triscal\\SistemaCompras-v3\\SistemaCompras-v3\\SistemaCompra.API\\SistemaCompra.API.csproj",
+  "projectFilePath": "C:\\Testes\\sistemaCompra\\SistemaCompra.API\\SistemaCompra.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juare\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\juare\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
